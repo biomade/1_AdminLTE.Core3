@@ -93,6 +93,10 @@
         "img/credit/paypal2.png",
         "img/credit/visa.png"
       ]
+    },
+    {
+      "library": "jquery@3.4.1",
+      "destination": "wwwroot/lib/jquery/"
     }
   ]
 }
